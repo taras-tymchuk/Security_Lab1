@@ -1,0 +1,11 @@
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+F:\books\4 course\Security of Programs and Data\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
