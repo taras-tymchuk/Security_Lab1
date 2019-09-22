@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectPath": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\Lab1.csproj",
       "packagesPath": "C:\\Users\\Taras\\.nuget\\packages\\",
-      "outputPath": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\Lab1\\obj\\",
+      "outputPath": "F:\\books\\4 course\\Security of Programs and Data\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
